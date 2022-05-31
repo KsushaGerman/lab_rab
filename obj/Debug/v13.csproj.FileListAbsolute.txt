@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\v13\obj\Debug\v13.csprojAssemblyReference.cache
+C:\Users\user\Desktop\v13\bin\Debug\v13.exe.config
+C:\Users\user\Desktop\v13\bin\Debug\v13.exe
+C:\Users\user\Desktop\v13\bin\Debug\v13.pdb
+C:\Users\user\Desktop\v13\obj\Debug\v13.exe
+C:\Users\user\Desktop\v13\obj\Debug\v13.pdb
+E:\v13\bin\Debug\v13.exe.config
+E:\v13\bin\Debug\v13.exe
+E:\v13\bin\Debug\v13.pdb
+E:\v13\obj\Debug\v13.csproj.AssemblyReference.cache
+E:\v13\obj\Debug\v13.csproj.CoreCompileInputs.cache
+E:\v13\obj\Debug\v13.exe
+E:\v13\obj\Debug\v13.pdb
